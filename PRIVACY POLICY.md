@@ -2,7 +2,7 @@ Privacy Policy for Audio to Video Converter
 
 1. Information Collected
 
-Audio to Video Converter, developed by M. Sadiq, may collect non-personal information for the purpose of delivering targeted advertisements. This may include device identifiers, IP addresses, usage data, and ad interaction information. The app processes audio files and optionally images selected by the user for conversion into video files. No personal data is collected or transmitted to external servers.
+Audio to Video Converter, developed by M. Sadiq, may collect non-personal information for the purpose of delivering targeted advertisements. This may include device identifiers, IP addresses, usage data, and ad interaction information. The app processes audio files and optionally images selected by the user for conversion into video files.
 
 2. Purpose of Data Collection
 
